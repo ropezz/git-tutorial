@@ -1,3 +1,5 @@
 # Gitチュートリアル
 
-- aaaaa
+- feature-A
+- fix-B
+- feature-C
